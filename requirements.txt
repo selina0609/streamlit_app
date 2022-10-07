@@ -1,0 +1,11 @@
+pandas==1.4.3
+numpy==1.22.3
+shap==0.41.0
+matplotlib==3.5.3
+streamlit==1.13.0
+seaborn==0.11.2
+python-csv==0.0.13
+
+
+
+
